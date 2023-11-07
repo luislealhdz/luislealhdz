@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Leal 🤓</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on a social network of world cuisines [Tech Store](https://github.com/0HungryDeveloper/tech-wave)
+- 🔭 I’m currently working on a e-commerce with Angular and Firebase [Tech Store](https://github.com/0HungryDeveloper/tech-wave)
 
-- 🌱 I’m currently learning **JavaScript and React**
-
-- 👨‍💻 All of my projects are available at [here.com](here.com)
+- 🌱 I’m currently learning **[React](https://github.com/luislealhdz/ReactTaskApp)**
 
 - 📫 How to reach me **luislealhdz24@gmail.com**
 
